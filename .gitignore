@@ -5,7 +5,7 @@
 !README.md
 !.gitignore
 
-AutoTradeMachine_Zeta/Archives
+AutoTradeMachine_Zeta/Archives/**
 
 !AutoTradeMachine_Zeta/config
 !AutoTradeMachine_Zeta/config/assetSubscriptionList.txt
