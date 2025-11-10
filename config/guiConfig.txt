@@ -1,0 +1,13 @@
+fullscreen = False
+resolution = 2560x1440
+windowTitle = AUTO TRADE MACHINE ZETA
+windowIcon = windowIcon.png
+maxFPS = 144
+maxPPS = 288
+MSAA = 4
+VSync = False
+Language = KOR
+ImageGenMSAA = 8
+GUITheme = DARK
+AudioMute = True
+AudioVolume = 100

@@ -5,21 +5,19 @@
 !README.md
 !.gitignore
 
-AutoTradeMachine_Zeta/Archives/**
+!config
+!config/assetSubscriptionList.txt
+!config/atmConfig.txt
+!config/guiConfig.txt
+!config/guioConfig.txt
+!config/windowIcon.png
 
-!AutoTradeMachine_Zeta/config/
-!AutoTradeMachine_Zeta/config/assetSubscriptionList.txt
-!AutoTradeMachine_Zeta/config/atmConfig.txt
-!AutoTradeMachine_Zeta/config/guiConfig.txt
-!AutoTradeMachine_Zeta/config/guioConfig.txt
-!AutoTradeMachine_Zeta/config/windowIcon.png
+!GUIs/audios/
+!GUIs/audios/*.mp3
 
-!AutoTradeMachine_Zeta/GUIs/audios/
-!AutoTradeMachine_Zeta/GUIs/audios/*.mp3
-
-!AutoTradeMachine_Zeta/GUIs/imgs/rsc/
-!AutoTradeMachine_Zeta/GUIs/imgs/rsc/*.png
-!AutoTradeMachine_Zeta/GUIs/imgs/rsd
-!AutoTradeMachine_Zeta/GUIs/imgs/rsd/.gitkeep
-!AutoTradeMachine_Zeta/GUIs/imgs/sysGen
-!AutoTradeMachine_Zeta/GUIs/imgs/sysGen/.gitkeep
+!GUIs/imgs/rsc/
+!GUIs/imgs/rsc/*.png
+!GUIs/imgs/rsd
+!GUIs/imgs/rsd/.gitkeep
+!GUIs/imgs/sysGen
+!GUIs/imgs/sysGen/.gitkeep
